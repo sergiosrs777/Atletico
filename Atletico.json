@@ -1,0 +1,35 @@
+{
+    "club": "Atletico de Madrid",
+    "fundacion": 1903,
+    "ciudad": "Madrid",
+    "estadio": "Riyad Metropolitano",
+    "entrenador": "Diego Simeone",
+    "trofeos": {
+        "liga":11,
+        "copa_del_rey":10,
+        "europa_league":3,
+        "supercopa_uefa":3,
+        "supercopa_espana":2
+    },
+    "plantilla": {
+        "Delantero": [
+            "Julian Alvarez",
+            "Antoine Griezmann",
+            "Angel Correa"
+        ],
+        "Mediocentros": [
+            "Koke",
+            "Pablo Barrios",
+            "Thomas Lemar"
+        ],
+        "Defensas": [
+            "Jose Maria Gimenez",
+            "Robin Le normand",
+            "Clement Lenglet"
+        ],
+        "Porteros": [
+            "Jan Oblak",
+            "Juan Musso"
+        ]
+    }
+}
